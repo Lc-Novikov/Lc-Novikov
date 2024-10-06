@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=209FFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=289FFF&height=120&section=header"/>
 
 ## **Lc-Novikov**
 ![l4FGDAx6u3hthMhgI](https://user-images.githubusercontent.com/100887441/160191308-d1436996-62d4-4638-8993-4667a20cc15b.gif)
