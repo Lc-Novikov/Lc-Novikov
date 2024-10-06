@@ -25,6 +25,14 @@
 <a href="https://github.com/UNITYBOT-MD/Ryo-YamadaBot-Lite">![github card](https://github-readme-stats.vercel.app/api/pin/?username=UNITYBOT-MD&repo=Ryo-YamadaBot-Lite&theme=merko)
 </a>
 
+## 🌌 The MDLG-Team OFC Channel 🌌(click en la imagen)
 
+<div align="center">
+  <a href="https://whatsapp.com/channel/0029VadwYAfBvvsbqX5VVt3m">
+    <img src="https://qu.ax/zXtW.jpg" alt="Página Web de Soporte" width="400">
+  </a>
+</div>
+
+- Síguenos si te gustó The Cosmic Bot-MD.
 
 
