@@ -43,3 +43,6 @@ Soy apasionado de la programación y el desarrollo web. Me encanta trabajar con 
 - Síguenos si te gustó The Cosmic Bot-MD.
 
 
+<p align="center"> 
+<img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
+</p>
