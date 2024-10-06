@@ -1,4 +1,4 @@
-### <a href="https://github.com/Jostin207"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=FF0001&width=435&lines=Bienvenido+a+mi+biografía/ola" alt="Typing SVG" /></a>
+### <a href="https://github.com/Jostin207"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=FF0001&width=435&lines=Bienvenido+a+mi+biografía" alt="Typing SVG" /></a>
 <p align="center"> 
 <img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
 </p>
