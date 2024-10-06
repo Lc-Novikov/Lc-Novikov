@@ -1,6 +1,5 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0001&height=120&section=header"/>
-
 ## **Lc-Novikov**
 ![l4FGDAx6u3hthMhgI](https://qu.ax/rjhhw.jpg)
 
