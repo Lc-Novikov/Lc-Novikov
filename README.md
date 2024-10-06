@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://github.com/Lc-Novikov/Houshou-Marine.AI/blob/main/line.gif" width="400vw"> 
+<img src="https://github.com/Lc-Novikov/Lc-Novikov/blob/main/line.gif" width="400vw"> 
 </p>
 
 ## **Lc-Novikov**
