@@ -19,7 +19,7 @@
 </div>
 <h2 align="center"> MIS PROYECTO </h2>
 
-<a href="https://github.com/Lc-Novikov">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Lc-Novikov&repo=Houshou-Marine-AI&theme=merko)
+<a href="https://github.com/Lc-Novikov/Houshou-Marine.AI">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Lc-Novikov&repo=Houshou-Marine.AI&theme=merko)
 </a>
 
 <a href="https://github.com/UNITYBOT-MD/Ryo-YamadaBot-Lite">![github card](https://github-readme-stats.vercel.app/api/pin/?username=UNITY-BOT-MD&repo=Ryo-YamadaBot-Lite&theme=merko)
