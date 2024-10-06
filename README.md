@@ -1,3 +1,6 @@
+<p align="center"> 
+<img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
+</p>
 
 ## **Lc-Novikov**
 ![l4FGDAx6u3hthMhgI](https://qu.ax/rjhhw.jpg)
