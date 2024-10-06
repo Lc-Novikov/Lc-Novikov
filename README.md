@@ -40,4 +40,4 @@ Soy apasionado de la programación y el desarrollo web. Me encanta trabajar con 
 - Síguenos si te gustó The Cosmic Bot-MD.
 
 
-## > 𝐓𝐇𝐞 𝐋𝐞𝐧𝐠𝐞𝐧𝐝 𝐓𝐀𝐇𝐀 现 ⟮⸙⟯ャ          <𝟗𝟏𝟐
+> 𝐓𝐇𝐞 𝐋𝐞𝐧𝐠𝐞𝐧𝐝 𝐓𝐀𝐇𝐀 现 ⟮⸙⟯ャ          <𝟗𝟏𝟐
