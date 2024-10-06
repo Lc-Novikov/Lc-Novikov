@@ -6,20 +6,20 @@ Soy un apasionado de la programación y el desarrollo web. Me encanta trabajar c
 
 **Habilidades**
 
-* Desarrollo web con HTML, CSS y JavaScript
-* Experiencia con frameworks como React y Angular
-* Conocimiento de bases de datos como MongoDB y MySQL
+• Desarrollo web con HTML, CSS y JavaScript
+• Experiencia con frameworks como React y Angular
+• Conocimiento de bases de datos como MongoDB y MySQL
 
 **Proyectos**
 
-* [Link a tu proyecto 1]((... ))
-* [Link a tu proyecto 2]((... ))
+• [Link a tu proyecto 1]((... ))
+• [Link a tu proyecto 2]((... ))
 
 **Contacto**
 
-* [Email](mailto:drakoofc19@gmail.com)
-* [LinkedIn]((link unavailable))
-* [Twitter]((link unavailable))
+• [Email](mailto:drakoofc19@gmail.com)
+• [LinkedIn]((link unavailable))
+• [Twitter]((link unavailable))
 
 **Acerca de mí**
 
