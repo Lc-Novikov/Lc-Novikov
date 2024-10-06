@@ -13,7 +13,7 @@ Soy apasionado de la programación y el desarrollo web. Me encanta trabajar con 
 <h2 align="center"> ESTADÍSTICAS </h2>
 </div>
 <div align="center">
-<a href="https://github.com/Lc-Novikov/"><img src="https://github-readme-stats.vercel.app/api?username=Lc-Novikov&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FF0001&icon_color=FF0001&text_color=D3D3D3&bg_color=0,000000,FF0001&locale=es" width="500"/>
+<a href="https://github.com/Lc-Novikov/"><img src="https://github-readme-stats.vercel.app/api?username=Lc-Novikov&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FF0001&icon_color=D3D3D3&text_color=D3D3D3&bg_color=0,000000,FF0001&locale=es" width="450"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lc-Novikov&show_icons=true&locale=es&layout=compact&line_height=20&title_color=C372F2&icon_color=EE6FF4&text_color=D3D3D3&bg_color=0,000000,130F40" width="290"  alt="Lc-Novikov"/>
 <br><br>
 </a>
