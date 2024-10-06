@@ -2,12 +2,13 @@
 ## **Lc-Novikov**
 ![l4FGDAx6u3hthMhgI](https://qu.ax/rjhhw.jpg)
 
-## **My información**
-
 <a href="https://www.youtube.com/@xone_by_unity" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/>
 <a href="https://www.facebook.com/profile.php?id=61557042058980&mibextid=ZbWKwL"/>
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 <a href="https://www.tiktok.com/@xone_by_unity" target="_blank"> <img src="https://img.shields.io/badge/-TikTok-%23E4405F?style=for-the-badge&logo=tiktok&logoColor=black" target="_blank"></a> <img src="https://github.com/UNITYBOT-MD/Ryo-YamadaBot-Lite/blob/main/Assets/Handshake.gif" height="30px">
+
+## **Mi información**
+Soy apasionado de la programación y el desarrollo web. Me encanta trabajar con JavaScript, Phyton, HTML, CSS, Node.js, C#, C+++ y sus ecosistemas.
 
 <h2 align="center"> ESTADÍSTICAS </h2>
 </div>
