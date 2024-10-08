@@ -32,7 +32,7 @@ Soy apasionado de la programación y el desarrollo web. Me encanta trabajar con 
 </div>
 <h2 align="center"> COLABORACIÓNES </h2>
 
-<a href="https://github.com/Frimemoloxz/The-cosmic-bot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=UNITYBOT-MD&repo=Ryo-YamadaBot-Lite&theme=merko)
+<a href="https://github.com/Frimemoloxz/The-cosmic-bot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Frimemoloxz&repo=The-cosmic-bot&theme=merko)
 </a> 
 
 ## 🌌 The MDLG-Team OFC Channel 🌌(click en la imagen)
