@@ -29,6 +29,10 @@ Soy apasionado de la programación y el desarrollo web. Me encanta trabajar con 
 <a href="https://github.com/UNITYBOT-MD/Ryo-YamadaBot-Lite">![github card](https://github-readme-stats.vercel.app/api/pin/?username=UNITYBOT-MD&repo=Ryo-YamadaBot-Lite&theme=merko)
 </a>
 
+</div>
+<h2 align="center"> COLABORACIÓNES </h2>
+
+
 ## 🌌 The MDLG-Team OFC Channel 🌌(click en la imagen)
 
 <div align="center">
