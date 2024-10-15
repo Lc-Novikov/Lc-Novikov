@@ -21,8 +21,8 @@ Soy apasionado de la programación y el desarrollo web. Me encanta trabajar con 
 </a>
 
 <h1 align="center">Hello, I'm Lc-Novikov<a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Saurabh</a></h1>
-<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
+Muhammad</a></h1>
+<h3 align="center">A passionate Mobile App developer from Pune Norway &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
