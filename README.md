@@ -92,19 +92,6 @@ Soy apasionado de la programación y el desarrollo web. Me encanta trabajar con 
 
 </p>
 
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-> 𝐓𝐇𝐞 𝐋𝐞𝐧𝐠𝐞𝐧𝐝 𝐓𝐀𝐇𝐀 现 ⟮⸙⟯ャ                       <𝟗𝟏𝟐
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
@@ -218,7 +205,7 @@ Soy apasionado de la programación y el desarrollo web. Me encanta trabajar con 
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b>Muhammad babdul</b>
 
 </div>
 <br>
@@ -230,6 +217,14 @@ Soy apasionado de la programación y el desarrollo web. Me encanta trabajar con 
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+<!-- BLOG-POST-LIST:START -->
 
-Last Edited on: 09/11/2022
+- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
+- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
+- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+> 𝐓𝐇𝐞 𝐋𝐞𝐧𝐠𝐞𝐧𝐝 𝐓𝐀𝐇𝐀 现 ⟮⸙⟯ャ                       <𝟗𝟏𝟐
+ 
