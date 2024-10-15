@@ -1,8 +1,9 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0001&height=120&section=header"/>
 
-## **Lc-Novikov**
-![l4FGDAx6u3hthMhgI](https://qu.ax/rjhhw.jpg)
+<h1 align="center">Hello, I'm Lc-Novikov<a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Muhammad</a></h1>
+<h3 align="center">A passionate Mobile App developer from Pune Norway &#127470;&#127475</h3>
 
 <a href="https://www.youtube.com/@xone_by_unity" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/>
 <a href="https://www.facebook.com/profile.php?id=61557042058980&mibextid=ZbWKwL"/>
@@ -20,9 +21,30 @@ Soy apasionado de la programación y el desarrollo web. Me encanta trabajar con 
 <br><br>
 </a>
 
-<h1 align="center">Hello, I'm Lc-Novikov<a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Muhammad</a></h1>
-<h3 align="center">A passionate Mobile App developer from Pune Norway &#127470;&#127475</h3>
+</div>
+<h2 align="center"> MIS PROYECTO </h2>
+
+<a href="https://github.com/Lc-Novikov/Houshou-Marine-AI">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Lc-Novikov&repo=Houshou-Marine-AI&theme=merko)
+</a>
+
+<a href="https://github.com/UNITYBOT-MD/Ryo-YamadaBot-Lite">![github card](https://github-readme-stats.vercel.app/api/pin/?username=UNITYBOT-MD&repo=Ryo-YamadaBot-Lite&theme=merko)
+</a>
+
+</div>
+<h2 align="center"> COLABORACIÓNES </h2>
+
+<a href="https://github.com/Frimemoloxz/The-cosmic-bot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Frimemoloxz&repo=The-cosmic-bot&theme=merko)
+</a> 
+
+## 🌌 The MDLG-Team OFC Channel 🌌(click en la imagen)
+
+<div align="center">
+  <a href="https://whatsapp.com/channel/0029VadwYAfBvvsbqX5VVt3m">
+    <img src="https://qu.ax/zXtW.jpg" alt="Página Web de Soporte" width="400">
+  </a>
+</div>
+
+- Síguenos si te gustó The Cosmic Bot-MD.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -83,35 +105,5 @@ Muhammad</a></h1>
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
-Last Edited on: 08/08/2022
-
-</div>
-<h2 align="center"> MIS PROYECTO </h2>
-
-<a href="https://github.com/Lc-Novikov/Houshou-Marine-AI">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Lc-Novikov&repo=Houshou-Marine-AI&theme=merko)
-</a>
-
-<a href="https://github.com/UNITYBOT-MD/Ryo-YamadaBot-Lite">![github card](https://github-readme-stats.vercel.app/api/pin/?username=UNITYBOT-MD&repo=Ryo-YamadaBot-Lite&theme=merko)
-</a>
-
-</div>
-<h2 align="center"> COLABORACIÓNES </h2>
-
-<a href="https://github.com/Frimemoloxz/The-cosmic-bot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Frimemoloxz&repo=The-cosmic-bot&theme=merko)
-</a> 
-
-## 🌌 The MDLG-Team OFC Channel 🌌(click en la imagen)
-
-<div align="center">
-  <a href="https://whatsapp.com/channel/0029VadwYAfBvvsbqX5VVt3m">
-    <img src="https://qu.ax/zXtW.jpg" alt="Página Web de Soporte" width="400">
-  </a>
-</div>
-
-- Síguenos si te gustó The Cosmic Bot-MD.
-
 
 > 𝐓𝐇𝐞 𝐋𝐞𝐧𝐠𝐞𝐧𝐝 𝐓𝐀𝐇𝐀 现 ⟮⸙⟯ャ                       <𝟗𝟏𝟐
