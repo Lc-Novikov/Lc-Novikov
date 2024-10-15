@@ -3,7 +3,6 @@
 
 <h1 align="center">Hello, I'm Lc-Novikov<a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Muhammad</a></h1>
-<h3 align="center">A passionate Mobile App developer from Pune Norway &#127470;&#127475</h3>
 
 <a href="https://www.youtube.com/@xone_by_unity" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/>
 <a href="https://www.facebook.com/profile.php?id=61557042058980&mibextid=ZbWKwL"/>
