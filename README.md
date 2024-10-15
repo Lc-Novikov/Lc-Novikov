@@ -8,22 +8,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
 
 <!-- TROFEOS GITHUB -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="LucNoah" /></a> </p>
 
 <!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying at [Institute Certus](https://www.certus.edu.pe/)
+- 📚 I am currently studying at [Dev.Software](https://www.software.com/)
 
 - 🌱 I am currently in the race **Software Design and Development**
 
-- 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
+- 🏙 Creator of the [Devs Community](https://github.com/LC-NOVIKOV) organization
 
-- 📫 How to reach me **davidmramos30@gmail.com**
+- 📫 How to reach me **lucnoahkarlsennovikov@gmail.com**
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/fpUtBrbKU5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a>
-<a href="https://tiktok.com/xone_by_unity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="@andermendoza" height="30" width="40" /></a>
 <a href="https://instagram.com/xone_by_unity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" /></a>
 </p>
 
