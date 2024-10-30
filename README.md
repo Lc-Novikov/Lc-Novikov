@@ -18,7 +18,9 @@
 - 🏙 Creator of the [Devs Community](https://github.com/LC-NOVIKOV) organization
 
 - 📫 How to reach me **lucnoahkarlsennovikov@gmail.com**
+- 📫 How to reach me **drakoofc19@gmail.com**
 
+- ✳️ Number: wa.me/5217204153740
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
