@@ -15,7 +15,7 @@
 
 - 🌱 I am currently in the race **Software Design and Development**
 
-- 🏙 Creator of the [Devs Community](https://github.com/LC-NOVIKOV) organization
+- 🏙 Creator of the [Devs Community](https://whatsapp.com/channel/0029VadwYAfBvvsbqX5VVt3m) organization
 
 - 📫 How to reach me **lucnoahkarlsennovikov@gmail.com**
 - 📫 How to reach me **drakoofc19@gmail.com**
